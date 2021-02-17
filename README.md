@@ -1,70 +1,17 @@
-# Getting Started with Create React App
+![](https://images.velog.io/images/chloeee/post/d0d36bbf-b110-4eb3-86be-f0352dc99f56/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA%202020-11-14%20%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE%206.28.56.png)
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+개발 기간 : 11/2 ~ 11/13
+개발 인원 : 프론트엔드4명, 백엔드2명
+커스터마이징 헤어제품을 주 제품으로 판매하는 미국 브랜드 (function of beauty) 사이트 클론을 진행
 
-## Available Scripts
+- 로그인, 회원가입 페이지 레이아웃 및 기능 구현
+    - 로그인페이지 email,password부분 validation기능구현
+    - 소셜로그인(카카오) 기능 구현
+    - 회원가입페이지 email,password 부분 validation 기능구현
+    - 회원가입페이지 password부분 validation 조건에 따른 텍스트 컬러 변경 기능 구현
+    - React hooks 와 styled component 사용하여 코드 작성
 
-In the project directory, you can run:
+- 마이페이지 레이아웃 및 기능 구현
+    - 로그인시 유저의 이메일 정보가 마이페이지에 나올 수 있도록 구현
+    - 카카오로그인시 카카오 로그인한 유저의 이름과 이메일 정보, 핸드폰 번호가 마이 페이지에 나올 수 있도록 구현
 
-### `yarn start`
-
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
-
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
-
-### `yarn test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `yarn build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `yarn eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
-
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `yarn build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
